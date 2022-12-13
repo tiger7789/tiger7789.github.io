@@ -14,12 +14,10 @@ tags:
 
 It's that time of year again! The annual WWDC (Apple Worldwide Developers Conference) kicked off at 1:00 a.m. on June 6. Let's dive in and check out the biggest announcements and highlights from this year's event.
 
-
 ## iOS 16 
-
 > Keywords: Software, User Experience, User Interface.
 
-### iOS 16 - one sentence
+### iOS 16 - One Sentence
 
 Compared to iOS 15, iOS 16 has seen significant changes in its user interface. After updating to the beta version of iOS 16, it is immediately noticeable that this is a new operating system.
 
@@ -29,7 +27,6 @@ Compared to iOS 15, iOS 16 has seen significant changes in its user interface. A
 
 The new lock screen in iOS 16 feels inspired by Apple Watch, and the AI-powered automatic background blurring and depth control is impressive. 
 The live weather feature on the lock screen is also incredibly useful when hiking or spending time outdoors. 
-
 Overall, the updates to the lock screen in iOS 16 are impressive and make the user experience even better.
 
 ![](https://www.macworld.com/wp-content/uploads/2022/09/ios16-custom-lock-screen-1.jpg?quality=50&strip=all&w=1024)
@@ -37,7 +34,8 @@ Overall, the updates to the lock screen in iOS 16 are impressive and make the us
 ### Notification
 
 In iOS 16, notifications now pop up from the bottom of the screen, making the user experience even more convenient. 
-The live activities API is also very useful, especially when you don't have time to watch a game or are waiting for an Uber. Overall, these updates to notifications and the live activities API make using an iPhone even more enjoyable.
+The live activities API is also very useful, especially when you don't have time to watch a game or are waiting for an Uber. 
+Overall, these updates to notifications and the live activities API make using an iPhone even more enjoyable.
 
 ![](https://www.macworld.com/wp-content/uploads/2022/08/ios16-notifications-lock-screen-1.jpg?quality=50&strip=all)
 
@@ -66,7 +64,7 @@ Overall, these updates to Apple Maps are impressive and make it an even more use
 ![](https://techcrunch.com/wp-content/uploads/2022/06/Apple-iOS-visual-lookup.jpg)
 
 
-## 结语
+## Conclusion
 
 As Apple's ecosystem continues to mature, it seems that the company's product managers have run out of truly groundbreaking features to wow us with. 
 Instead, this year's WWDC focused on improvements and refinements at the detail level. 
