@@ -90,7 +90,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Cassiel",
+        title: "Cassiel's Blog",
         href: "https://cassiel-h.github.io/"
     },{
         title: "Apple",
