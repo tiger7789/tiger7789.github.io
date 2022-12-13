@@ -1,0 +1,58 @@
+---
+layout:     post
+title:      App Recommendations for the First Quarter 
+subtitle:   App Recommendation - AdGuard 🪧
+date:       2022-04-28
+author:     Sam
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - APP
+---
+
+## Introduction
+
+It's that time again for our quarterly app recommendations! 
+This time, I am highlighting a website extension called AdGuard. Let's dive in and check out the biggest announcements and highlights from this year's event.
+
+## AdGuard
+> Keywords: Clean 🧹, No more ads 🈲️, Secure 🔒, and customizable 👋.
+
+### What is it? 
+
+AdGuard is a powerful tool that blocks ads, trackers, and other forms of online spam and clutter. 
+With AdGuard installed, you can enjoy a faster, cleaner, and more secure browsing experience.
+![]([https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f7ed599eaf9c49bac2e582e7659a147e/adguard.png]())
+
+### Why?  
+
+One of the best things about AdGuard is its customizable filters. You can choose which types of ads and trackers to block, and even create your own custom filters. 
+AdGuard also offers a range of pre-made filters, including ones for blocking specific ad networks, adult content, and social media widgets.
+
+In addition to its ad-blocking capabilities, AdGuard also has a built-in privacy protection feature. 
+This feature blocks online trackers and other forms of online surveillance, helping you maintain your online privacy and anonymity.
+![](https://lh3.googleusercontent.com/kdSSV-hFkizX5FoVhPVfB0j-pp7FphmV1Lo_fpoaMoaxGjvK3lGA63pMsbQkFtrCKVrikxI_rfuSVBGJo6Pl5f-DRg=w640-h400-e365-rj-sc0x00ffffff)
+
+### How to use it?
+AdGuard is available for all major web browsers, including Chrome, Firefox, and Safari. 
+It's also available for iOS and Android, allowing you to block ads and protect your privacy on your mobile devices as well.
+
+![](https://lh3.googleusercontent.com/vlEHlnRwrJ713eMPXbn1LbH7iAc7vWGXdhWJQZJQLWk8yOt12AvU6aHOeG69kk7csHtZV3DedMp3U8C6VC_CjLM-ug=w640-h400-e365-rj-sc0x00ffffff)
+
+### Test in real life
+After testing, we have found that AdGuard has significantly better ad-blocking and privacy protection capabilities than AdBlock. 
+In a two-minute YouTube video, AdBlock blocked 8 ads while AdGuard blocked 97 ads. On the homepage of bilibili.com, AdBlock did not block any ads while AdGuard blocked 72 ads.
+
+These results show that AdGuard is a more effective tool for blocking ads and protecting your online privacy. 
+Its customizable filters and built-in privacy protection make it a powerful tool for improving your online experience.
+![](https://cdn.adguard.com/public/Adguard/Common/adguard_home.gif)
+
+
+## Conclusion
+Overall, AdGuard is a must-have tool for anyone who values a fast, clean, and secure online experience.
+Give it a try and see how it can improve your browsing experience.
+![](https://adguard.com/img/social/og-main.png)
+
+
+
+
