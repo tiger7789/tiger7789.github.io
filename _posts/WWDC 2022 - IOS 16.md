@@ -1,0 +1,78 @@
+---
+layout:     post
+title:      WWDC 2022 - IOS 16 
+subtitle:   WWDC 2022 Keynote 📱
+date:       2022-06-06
+author:     Sam
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - Apple
+---
+
+## Introduction
+
+It's that time of year again! The annual WWDC (Apple Worldwide Developers Conference) kicked off at 1:00 a.m. on June 6. Let's dive in and check out the biggest announcements and highlights from this year's event.
+
+
+## iOS 16 
+
+> Keywords: Software, User Experience, User Interface.
+
+### iOS 16 - one sentence
+
+Compared to iOS 15, iOS 16 has seen significant changes in its user interface. After updating to the beta version of iOS 16, it is immediately noticeable that this is a new operating system.
+
+![]([https://cdn.mos.cms.futurecdn.net/phnXCpvVGBj4xSM54ggno3-970-80.jpg.webp]())
+
+### Lockscreen  
+
+The new lock screen in iOS 16 feels inspired by Apple Watch, and the AI-powered automatic background blurring and depth control is impressive. 
+The live weather feature on the lock screen is also incredibly useful when hiking or spending time outdoors. 
+
+Overall, the updates to the lock screen in iOS 16 are impressive and make the user experience even better.
+
+![](https://www.macworld.com/wp-content/uploads/2022/09/ios16-custom-lock-screen-1.jpg?quality=50&strip=all&w=1024)
+
+### Notification
+
+In iOS 16, notifications now pop up from the bottom of the screen, making the user experience even more convenient. 
+The live activities API is also very useful, especially when you don't have time to watch a game or are waiting for an Uber. Overall, these updates to notifications and the live activities API make using an iPhone even more enjoyable.
+
+![](https://www.macworld.com/wp-content/uploads/2022/08/ios16-notifications-lock-screen-1.jpg?quality=50&strip=all)
+
+### iMessage
+
+iMessage has been updated again, and this time it brings some great new features! 
+You can now edit messages after you've sent them, recall messages, and mark messages as unread. Plus, the awesome shareplay feature has also arrived in iMessage, allowing you to watch movies together in a group and send real-time comments and reactions. These new features make iMessage even more powerful and fun to use.
+
+![](https://media.idownloadblog.com/wp-content/uploads/2022/06/iOS-16-messages.jpg)
+
+
+### Map
+Apple has just released a new, high-precision city version of its maps, and it is now available in Montreal. 
+The new maps provide greater detail and accuracy, making it even easier to find your way around the city. 
+Plus, with support for features like cycling directions and real-time transit information, the new maps are a valuable tool for anyone living in or visiting Montreal. 
+Overall, these updates to Apple Maps are impressive and make it an even more useful tool for navigation and exploration.
+
+![](https://cdn.mos.cms.futurecdn.net/LtSVCnhN3tfbECVP5KsKNf-1200-80.png)
+
+### Minor
+- Wow, the live text feature now supports videos, making it even easier to copy and paste text from videos!
+- The phone's AI can now automatically crop images, saving you the trouble of doing it yourself.
+- By the way, Apple has finally opened up these features to developers.
+- The new Apple Pay Later feature offers no fees, no interest, and Apple Pay tracking, which is a major disruption for many e-commerce businesses. Overall, these updates to Apple Pay are game-changing and make it even more convenient to use.
+
+![](https://techcrunch.com/wp-content/uploads/2022/06/Apple-iOS-visual-lookup.jpg)
+
+
+## 结语
+
+As Apple's ecosystem continues to mature, it seems that the company's product managers have run out of truly groundbreaking features to wow us with. 
+Instead, this year's WWDC focused on improvements and refinements at the detail level. 
+As users and fans, we can only accept this reality and appreciate the subtle enhancements that make using Apple products even better.
+![](https://www.apple.com/newsroom/images/product/iphone/standard/Apple-WWDC22-iOS16-3up-hero-220606.jpg.og.jpg?202212111143)
+
+
+
+
