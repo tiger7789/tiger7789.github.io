@@ -24,7 +24,7 @@ github_username:    tiger7789
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   Lnsey16
-
+weixin_username:  /img/self-side.jpeg  
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
+#Disqus（https://disqus.com/）
 disqus_username: samluo1216
 
 
