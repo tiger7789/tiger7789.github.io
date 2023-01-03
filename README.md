@@ -57,27 +57,26 @@
 	* Test and see preview on  `http://127.0.0.1:4000/`
 
 
+### Start
+Certainly! Here is how you can easily start building your own blog by modifying the _config.yml file: 
 
-
-### 开始
-
-你可以通用修改 `_config.yml`文件来轻松的开始搭建自己的博客:
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+title: Hello               # Your website title
+SEOTitle:				   # SEO title
+description: "Hey"	   	   # 
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: tiger7789     # your github
+
 
 # Build settings
-# paginate: 10              # 一页你准备放几篇文章
+# paginate: 10              # how many blog you want to put in a page 
 ```
+In the _config.yml file, you will see various configuration options that you can modify. [Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
 
-Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
+Once you have made your changes, save the _config.yml file and your blog should now reflect the changes you made.
 
 ### 撰写博文
 
