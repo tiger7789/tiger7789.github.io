@@ -23,7 +23,6 @@
 	* [Writing_Blog](#writing_Blog)
 * Widget
 	* [Side Bar](#Sidebar)
-	* [featured-tag](#featured-tags)
 	* [friends](#friends)
 
 
@@ -99,22 +98,6 @@ sidebar-about-description: "about yourself"
 sidebar-avatar: /img/avatar-lxc.jpg     #your photo
 ```
 
-
-### Featured Tags
-
-看到这个网站 [Medium](http://medium.com) 的推荐标签非常的炫酷，所以我将他加了进来。
-这个模块现在是独立的，可以呈现在所有页面，包括主页和发表的每一篇文章标题的头上。
-
-```
-# Featured Tags
-featured-tags: true  
-featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
-```
-
-唯一需要注意的是`featured-condition-size`: 如果一个标签的 SIZE，也就是使用该标签的文章数大于上面设定的条件值，这个标签就会在首页上被推荐。
- 
-内部有一个条件模板 `{% if tag[1].size > {{site.featured-condition-size}} %}` 是用来做筛选过滤的.
-
 ### Social-media Account
 
 Please input your social media account, comment out will invisible. 
@@ -150,12 +133,12 @@ friends: [
 ]
 ```
 
-## 致谢
+## Acknowledgements
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
-2. 感谢 Jekyll、Github Pages 和 Bootstrap!
+1. Fork from [Hux](https://github.com/Huxpro/huxpro.github.io) and [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) 
+2. Thanks Jekyll、Github Pages 和 Bootstrap!
+3. Thanks Cassiel
 
 ## License
-
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+[LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
 
