@@ -21,7 +21,7 @@
 ## 使用
 
 * 开始
-	* [环境](#环境)
+	* [Environment](#Environment)
 	* [开始](#开始)
 	* [撰写博文](#撰写博文)
 * 组件
@@ -40,7 +40,7 @@
 
 
 
-### 环境 Débutant
+### Environment 
 * Easy way: [use github to build your personal blog]
 	* To start: 
 		* sign up GitHub ✅
@@ -51,7 +51,7 @@
 		If you can see a page like it:
 
 
-* Developer Way: [Credit to [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) and [Cassiel](https://github.com/Cassiel-H/Cassiel-H.github.io)
+* Developer Way: [Credit to [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) and [Cassiel](https://github.com/Cassiel-H/Cassiel-H.github.io)]
 	* You need to install [jekyll](http://jekyllcn.com/)
 	* Then you need to input `jekyll serve` or  `jekyll s` in command 
 	* Test and see preview on  `http://127.0.0.1:4000/`
