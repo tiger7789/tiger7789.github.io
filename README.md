@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) and [qiubaiying] (https://github.com/qiubaiying/qiubaiying.github.io)
+博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) and [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) 
  
 
 >
@@ -44,14 +44,14 @@
 * Easy way: [use github to build your personal blog]
 	* To start: 
 		* sign up GitHub ✅
-		* Search 🔍 and Fork 🔄 tiger7789.github.io (https://github.com/tiger7789/tiger7789.github.io)
+		* Search 🔍 and Fork 🔄 [tiger7789.github.io](https://github.com/tiger7789/tiger7789.github.io)
 		* Setting -> Rename as yourname.github/github.io
 	* Test:
 		* open search engine, search yourname.github/github.io
 		If you can see a page like it:
 
 
-* Developer Way: [Credit to [qiubaiying] (https://github.com/qiubaiying/qiubaiying.github.io) and [Cassiel](https://github.com/Cassiel-H/Cassiel-H.github.io)
+* Developer Way: [Credit to [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) and [Cassiel](https://github.com/Cassiel-H/Cassiel-H.github.io)
 	* You need to install [jekyll](http://jekyllcn.com/)
 	* Then you need to input `jekyll serve` or  `jekyll s` in command 
 	* Test and see preview on  `http://127.0.0.1:4000/`
