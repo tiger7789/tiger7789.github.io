@@ -1,13 +1,13 @@
 
 
-![](https://raw.githubusercontent.com/tiger7789/tiger7789.github.io/master/img/readme.jpg) #改正
+![](https://raw.githubusercontent.com/tiger7789/tiger7789.github.io/master/img/readme.jpg) 
 
 [![Build Status](https://travis-ci.org/tiger7789/tiger7789.github.io.svg?branch=master)](https://travis-ci.org/tiger7789/tiger7789.github.io)
 [![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) and [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) 
+Special thanks to [Hux](https://github.com/Huxpro/huxpro.github.io) and [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
  
 
 >
