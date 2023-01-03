@@ -63,13 +63,12 @@ Certainly! Here is how you can easily start building your own blog by modifying 
 
 ```
 # Site settings
-title: Hello               # Your website title
-SEOTitle:				   # SEO title
-description: "Hey"	   	   # 
+title: Hello				# Your website title
+SEOTitle: Hello world		# SEO title
+description: "Hey"			# description
 
 # SNS settings      
 github_username: tiger7789     # your github
-
 
 # Build settings
 # paginate: 10              # how many blog you want to put in a page 
