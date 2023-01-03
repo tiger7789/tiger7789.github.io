@@ -22,8 +22,8 @@
 
 * 开始
 	* [Environment](#Environment)
-	* [开始](#开始)
-	* [撰写博文](#撰写博文)
+	* [Start](#start)
+	* [WritingBlog](#writingBlog)
 * 组件
 	* [侧边栏](#侧边栏)
 	* [迷你关于我](#mini-about-me)
@@ -77,24 +77,26 @@ In the _config.yml file, you will see various configuration options that you can
 
 Once you have made your changes, save the _config.yml file and your blog should now reflect the changes you made.
 
-### 撰写博文
 
-要发表的文章一般以 **Markdown** 的格式放在这里`_posts/`，你只要看看这篇模板里的文章你就立刻明白该如何设置。
+### WritingBlog
 
-yaml 头文件长这样:
+In order to publish a new blog post on your site, you will need to create a new **Markdown**  file in the `_posts/` directory. The file should be formatted using `_posts/` syntax, and should include a YAML header at the top to specify metadata for the post.
+
+
+Here is how the YAML header of a blog post generally looks in Markdown, and how you can set it up:
 
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      "Welcome to my blog!"
+subtitle:   Start it
+date:       2022-10-13
+author:     tiger7789
+header-img: img/hello_world.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - blog
+    - hello
 ---
 
 ```
