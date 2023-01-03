@@ -139,5 +139,5 @@ friends: [
 3. Thanks Cassiel
 
 ## License
-[LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+[LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)
 
