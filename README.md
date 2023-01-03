@@ -117,7 +117,6 @@ Please input your social media account, comment out will invisible.
 
 Show your frends
 * setting in  `_config.yml`, the `Friends` section
-设置是在。
 
 ```
 # Friends
