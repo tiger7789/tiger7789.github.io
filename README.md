@@ -122,7 +122,7 @@ Show your frends
 # Friends
 friends: [
     {
-        title: "LXC Blog",
+        title: "Sam.L Blog",
         href: "https://tiger7789.github.io/"
     },
     {
