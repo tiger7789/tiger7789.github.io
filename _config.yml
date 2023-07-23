@@ -89,6 +89,12 @@ service-worker: true
 
 # Friends
 friends: [
+   {
+        title: "Cassiel.H's Blog",
+        href: "https://cassiel-h.github.io/"
+    },{
+        title: "My Linkedin",
+        href: "https://www.linkedin.com/in/xingchen-luo-1216lxc/"
     {
         title: "Apple",
         href: "https://apple.com"
