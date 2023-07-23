@@ -21,9 +21,9 @@ RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     
 github_username:    tiger7789
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   Lnsey16
+#facebook_username:  
+#jianshu_username:   
+#twitter_username:   
 weixin_username:  /img/self-side.jpeg  
 
 
@@ -90,9 +90,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Cassiel's Blog",
-        href: "https://cassiel-h.github.io/"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
