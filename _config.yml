@@ -4,7 +4,7 @@ SEOTitle: 星辰的博客 | Xingchen Blog
 header-img: img/back-full.jpeg
 email: Xingchen.luo@mail.mcgill.com
 description: "A man is least himself when he talks in his own person. Give him a mask and he will tell you the truth."
-keyword: "XC, XC Blog, 星辰的博客, XingchenLuo, 骆星辰, Apple, iPhone"
+keyword: "XC, XC Blog, 星辰的博客, XingchenLuo, 骆星辰"
 url: "http://tiger7789.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' sif your blog hosted on 'host/blog'
 github_repo: "https://github.com/tiger7789/tiger7789.github.io.git" # you code repository
@@ -24,7 +24,7 @@ github_username:    tiger7789
 #facebook_username:  
 #jianshu_username:   
 #twitter_username:   
-weixin_username:  /img/self-side.jpeg  
+#weixin_username:  /img/self-side.jpeg  
 
 
 
@@ -88,11 +88,8 @@ service-worker: true
 
 
 # Friends
-friends: [
+Useful_Link: [
     {
-        title: "Cassiel.H's Blog",
-        href: "https://cassiel-h.github.io/"
-    },{
         title: "My Linkedin",
         href: "https://www.linkedin.com/in/xingchen-luo-1216lxc/"
     },{
