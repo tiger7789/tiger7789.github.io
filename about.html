@@ -77,14 +77,14 @@ header-img: "img/aboutmebg.jpg"
     function _render(){
         var _hash = window.location.hash;
         // en
-        if(_hash === "#zh"){
-            $select.selectedIndex = 0;
+        if(_hash === "#en"){
+            $select.selectedIndex = 1;
             $zh.style.display = "block";
             $en.style.display = "none";
         // zh by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
-            $select.selectedIndex = 1;
+            $select.selectedIndex = 0;
             $zh.style.display = "block";
             $en.style.display = "none";
         }
