@@ -93,10 +93,7 @@ service-worker: true
 
 # Friends
 Useful_Link: [
-    {
-
-    },{
-        title: "My Linkedin",
+    {   title: "My Linkedin",
         href: "https://www.linkedin.com/in/xingchen-luo-1216lxc/"
     },{
         title: "Apple",
