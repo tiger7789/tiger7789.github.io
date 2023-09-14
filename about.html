@@ -93,11 +93,18 @@ header-img: "img/aboutmebg.jpg"
 
     // handle select change
     function onLanChange(index){
-        if(index == 0){
-            window.location.hash = "#zh"
-        }else{
-            window.location.hash = "#en"
+
+        if (index == 0) {
+            window.location.hash = "#zh";
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        } else {
+            window.location.hash = "#en";
+            $zh.style.display = "none";
+            $en.style.display = "block";
+    
         }
+        setTimeout(_render, 0);
     }
 
     // init
