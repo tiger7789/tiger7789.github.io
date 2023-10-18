@@ -6,17 +6,19 @@ header-img: "img/aboutmebg.jpg"
 ---
 
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="1" selected> 英文 English </option>
-    <option value="0"> 中文 Chinese </option>
-</select> 
+<select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0">中文 Chinese</option>
+    <option value="1" selected>英文 English</option>
+</select>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
 
-    <!--copied from markdown -->
-    <blockquote><p> click above to switch language <br> 冰冻三尺 非一日之寒<br>
-    积土成山 非斯须之作</p></blockquote>
+    <!-- Copied from markdown -->
+    <blockquote>
+        <p>Click above to switch language <br> 冰冻三尺 非一日之寒<br>
+            积土成山 非斯须之作</p>
+    </blockquote>
 
     <p>Hey，我是<strong>星辰(Orion)</strong>，一只学生狗，正在麦吉尔的Master of Management in Analytics学习，本科在麦吉尔学习Finance，并对data scientist感兴趣。</p>
 
@@ -24,18 +26,16 @@ header-img: "img/aboutmebg.jpg"
 
     <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 
         <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页
-        <a href="https://github.com/tiger7789">👉GitHub·Orion
-        
-        </a>。如果有什么问题，欢迎提出探讨~</p>
+        <a href="https://github.com/tiger7789">👉GitHub·Orion</a>.</p>
 
     <p></p>
-    
+
     <h5>Talks</h5>
 
     <ul>
         <li><a href="https://github.com">GitHub</a></li>
         <li><a href="http://jekyll.com.cn/">jekyll</a></li>
-        <li><a href="https://www.linkedin.com/in/xingchen-luo-1216lxc">Linkedin</a></li>  
+        <li><a href="https://www.linkedin.com/in/xingchen-luo-1216lxc">Linkedin</a></li>
         <li><a href="https://tiger7789.github.io">Orion</a></li>
         <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
     </ul>
@@ -43,57 +43,55 @@ header-img: "img/aboutmebg.jpg"
 
 <!-- English Version -->
 <div class="en post-container">
-    <blockquote><p>Yet another Tech enthusiast. <br>
-    Yet another Life-long Student.</p></blockquote>
+    <blockquote>
+        <p>Yet another Tech enthusiast. <br>
+            Yet another Life-long Student.</p>
+    </blockquote>
 
-    <p>Hi, I am <strong>Xingchen (Orion) Luo</strong>，you can call me <strong>Orion</strong>. 
+    <p>Hi, I am <strong>Xingchen (Orion) Luo</strong>, you can call me <strong>Orion</strong>. 
         A student at McGill University, currently studying <strong>Master of Management Analytics</strong>. Graduated from Bcom in Finance @ McGill, is interested in exploring the data scientist and technology field.</p>
 
-    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/tiger7789">Github·Orion</a>.</p>
-    
+    <p>This is my personal blog, through making Github Pages and Jekyll. My GitHub 👉 <a href="http://github.com/tiger7789">Github·Orion</a>.</p>
+
     <p>I am a sports enthusiast and enjoy playing soccer, keeping fit through running and boxing, and also playing badminton.</p>
-    <p>I am currently seeking <srong> internship </srong>opportunities in my field of study to gain hands-on experience and further develop my skills.</p>
+    <p>I am currently seeking <strong>internship</strong> opportunities in my field of study to gain hands-on experience and further develop my skills.</p>
+
     <h5>Talks</h5>
 
     <ul>
-    <li><a href="https://github.com">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/xingchen-luo-1216lxc">Linkedin</a></li>  
-    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
-    <li><a href="https://tiger7789.github.io">Orion</a></li>
+        <li><a href="https://github.com">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/xingchen-luo-1216lxc">Linkedin</a></li>
+        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="https://tiger7789.github.io">Orion</a></li>
     </ul>
-</div> 
+</div>
 
 <!-- Handle Language Change -->
 <script type="text/javascript">
-    // get nodes
+    // Get nodes
     var $zh = document.querySelector(".zh");
     var $en = document.querySelector(".en");
     var $select = document.querySelector("select");
 
-    // bind hashchange event
+    // Bind hashchange event
     window.addEventListener('hashchange', _render);
 
-    // handle render
-    function _render(){
+    // Handle render
+    function _render() {
         var _hash = window.location.hash;
-        // en
-        if(_hash === "#en"){
+        if (_hash === "#en") {
             $select.selectedIndex = 1;
-            $zh.style.display = "none"; // change this line
-            $en.style.display = "block"; // change this line
-        // en by default
-        }else{
-        // not trigger onChange, otherwise cause a loop call.
+            $zh.style.display = "none";
+            $en.style.display = "block";
+        } else {
             $select.selectedIndex = 0;
-            $zh.style.display = "block"; // change this line
-            $en.style.display = "none"; // change this line
+            $zh.style.display = "block";
+            $en.style.display = "none";
         }
-
     }
 
-    // handle select change
-    function onLanChange(index){
-
+    // Handle select change
+    function onLanChange(index) {
         if (index == 0) {
             window.location.hash = "#zh";
             $zh.style.display = "block";
@@ -102,39 +100,32 @@ header-img: "img/aboutmebg.jpg"
             window.location.hash = "#en";
             $zh.style.display = "none";
             $en.style.display = "block";
-
         }
         setTimeout(_render, 0);
     }
 
-    // init
+    // Init
     _render();
-
 </script>
 
-
- <!-- disqus 评论框 start  -->
+<!-- Disqus Comment Section (if used in your Jekyll site) -->
 {% if site.disqus.enable %}
-
 <div class="comment">
     <div id="disqus_thread" class="disqus-thread">
     </div>
 </div>
-<!-- disqus 评论框 end -->
 
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus.username}}";
     var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
     var disqus_url = "{{site.url}}{{page.url}}";
 
     (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<!-- disqus 公共JS代码 end -->
 {% endif %}
-
