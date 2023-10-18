@@ -79,14 +79,14 @@ header-img: "img/aboutmebg.jpg"
         // en
         if(_hash === "#en"){
             $select.selectedIndex = 1;
-            $zh.style.display = "block";
-            $en.style.display = "none";
+            $zh.style.display = "none"; // change this line
+            $en.style.display = "block"; // change this line
         // en by default
         }else{
         // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 0;
-            $zh.style.display = "none";
-            $en.style.display = "block";
+            $zh.style.display = "block"; // change this line
+            $en.style.display = "none"; // change this line
         }
 
     }
@@ -94,21 +94,22 @@ header-img: "img/aboutmebg.jpg"
     // handle select change
     function onLanChange(index){
 
-        if (index == 1) {
-            window.location.hash = "#en";
+        if (index == 0) {
+            window.location.hash = "#zh";
             $zh.style.display = "block";
             $en.style.display = "none";
         } else {
-            window.location.hash = "#zh";
+            window.location.hash = "#en";
             $zh.style.display = "none";
             $en.style.display = "block";
-    
+
         }
         setTimeout(_render, 0);
     }
 
     // init
     _render();
+
 </script>
 
 
