@@ -79,14 +79,14 @@ header-img: "img/aboutmebg.jpg"
     // Handle render
     function _render() {
         var _hash = window.location.hash;
-        if (_hash === "#en") {
-            $select.selectedIndex = 1;
-            $zh.style.display = "none";
-            $en.style.display = "block";
-        } else {
+        if (_hash === "#zh") {
             $select.selectedIndex = 0;
             $zh.style.display = "block";
             $en.style.display = "none";
+        } else {
+            $select.selectedIndex = 1;
+            $zh.style.display = "none";
+            $en.style.display = "block";
         }
     }
 
